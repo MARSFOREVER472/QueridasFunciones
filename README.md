@@ -8,3 +8,4 @@
 
   - El nombre de la función (opcional).
   - Una lista de argumentos para la función, encerrados entre paréntesis y separados por comas (,).
+  - Las sentencias JavaScript que definen la función, encerradas por llaves, { }.
