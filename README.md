@@ -7,5 +7,5 @@
 - **_La definición de una función (también llamada declaración de función o sentencia de función) consiste de la palabra clave (reservada)  function, seguida por:_**
 
   - **_El nombre de la función (opcional)._**
-  - _Una lista de argumentos para la función, encerrados entre paréntesis y separados por comas (,)._
+  - **_Una lista de argumentos para la función, encerrados entre paréntesis y separados por comas (,)._**
   - Las sentencias JavaScript que definen la función, encerradas por llaves, { }.
