@@ -1,3 +1,3 @@
 # **_QueridasFunciones_**
 
-## **_Cómo crear algunas funciones, primeros pasos con JavaScript._**
+## **_Cómo crear algunas funciones, primeros pasos usando JavaScript._**
