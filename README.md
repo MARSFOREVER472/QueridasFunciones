@@ -1,2 +1,2 @@
 # QueridasFunciones
-Cómo crear funciones, primeros pasos.
+Cómo crear algunas funciones, primeros pasos.
