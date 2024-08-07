@@ -6,4 +6,4 @@
 
 - **_La definición de una función (también llamada declaración de función o sentencia de función) consiste de la palabra clave (reservada)  function, seguida por:_**
 
-    El nombre de la función (opcional).
+  - El nombre de la función (opcional).
