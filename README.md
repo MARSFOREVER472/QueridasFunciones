@@ -1,3 +1,3 @@
 # **_QueridasFunciones_**
 
-Cómo crear algunas funciones, primeros pasos.
+## Cómo crear algunas funciones, primeros pasos.
