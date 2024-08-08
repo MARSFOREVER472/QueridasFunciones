@@ -13,6 +13,7 @@
 - **_Para usar una función, debes definirla en algún lugar del ámbito desde el que deseas llamarla._**
 
 - **_Las funciones son sumamente importantes en Javascript, aquí en nuestro curso trataremos de practicar con varios ejercicios para que puedas aprender que es una función y su utilidad._**
+Definir funciones
 
 - **_La definición de una función (también llamada declaración de función o sentencia de función) consiste de la palabra clave (reservada)  function, seguida por:_**
 
