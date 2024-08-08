@@ -4,7 +4,7 @@
 
 ### **_Antes de comenzar..._**
 
-¿Qué son las funciones?
+_¿Qué son las funciones?_
 
 - **_Las funciones son sumamente importantes en Javascript, aquí en nuestro curso trataremos de practicar con varios ejercicios para que puedas aprender que es una función y su utilidad._**
 
