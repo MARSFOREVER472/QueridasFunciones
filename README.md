@@ -10,7 +10,7 @@
   
 - **_Una función en JavaScript es similar a un procedimiento — un conjunto de instrucciones que realiza una tarea o calcula un valor, pero para que un procedimiento califique como función, debe tomar alguna entrada y devolver una salida donde hay alguna relación obvia entre la entrada y la salida._**
   
-- Para usar una función, debes definirla en algún lugar del ámbito desde el que deseas llamarla.
+- _Para usar una función, debes definirla en algún lugar del ámbito desde el que deseas llamarla._
 
 - **_Las funciones son sumamente importantes en Javascript, aquí en nuestro curso trataremos de practicar con varios ejercicios para que puedas aprender que es una función y su utilidad._**
 
