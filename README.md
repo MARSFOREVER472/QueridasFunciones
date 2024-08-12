@@ -22,7 +22,7 @@
   - **_Una lista de argumentos para la función, encerrados entre paréntesis y separados por comas (,)._**
   - **_Las sentencias JavaScript que definen la función, encerradas por llaves, { }._**
 
-- **_Por ejemplo, el siguiente código define una función simple llamada square ("cuadrado"):_**
+- **_Por ejemplo, el siguiente código define una función simple llamada ```square``` ("cuadrado"):_**
 ```
 function square(number) {
   return number * number;
