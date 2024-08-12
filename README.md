@@ -33,4 +33,5 @@ function square(number) {
 - **_La función consta de una declaración que dice devuelva el parámetro de la función (es decir, number) multiplicado por sí mismo._**
   
 - **_La instrucción return especifica el valor devuelto por la función:_**
+
 return number * number;
