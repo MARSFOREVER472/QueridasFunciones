@@ -28,7 +28,7 @@ function square(number) {
   return number * number;
 }
 ```
-- La función square toma un parámetro, llamado number.
+- _La función square toma un parámetro, llamado number._
   
 - La función consta de una declaración que dice devuelva el parámetro de la función (es decir, number) multiplicado por sí mismo.
   
